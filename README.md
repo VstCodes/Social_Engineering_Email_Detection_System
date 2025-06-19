@@ -89,8 +89,8 @@ Visualizations like PR curves, accuracy histograms, and confusion matrices helpe
 ## How to Run
 
 
-> git clone https://github.com/your-username/your-repo.git
-> cd your-repo
+ **git clone https://github.com/your-username/your-repo.git**
+ **cd your-repo**
 
 
 Then, open the **security_proje_code.ipynb** notebook in [Google Colab](https://colab.research.google.com/) and run all cells in order.
@@ -108,4 +108,4 @@ Then, open the **security_proje_code.ipynb** notebook in [Google Colab](https://
 
 ## Acknowledgments
 
-I’d like to thank **Dr. Enis Karaarslan** for his guidance, and **ChatGPT** for supporting the coding, testing, and explanation process. I also acknowledge my own persistence in completing this project from start to finish.
+I’d like to thank Dr. Enis Karaarslan for his guidance, and ChatGPT for supporting the coding, testing, and explanation process. I also acknowledge my own persistence in completing this project from start to finish.
