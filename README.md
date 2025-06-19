@@ -1,7 +1,9 @@
 # Social Engineering Email Detection System
 
 **Course**: CENG3544 - Computer and Network Security
+
 **Instructor**: Dr. Enis Karaarslan
+
 **Student**: Vuslat Sülbiye Türk
 
 This project presents a machine learning-based approach to detect **social engineering tactics in email content**. Instead of identifying spam, this system targets manipulative techniques like **urgency, authority, impersonation, persuasion**, and more—offering a smarter, psychological filter.
@@ -90,6 +92,7 @@ Visualizations like PR curves, accuracy histograms, and confusion matrices helpe
 
 
  **git clone https://github.com/your-username/your-repo.git**
+ 
  **cd your-repo**
 
 
