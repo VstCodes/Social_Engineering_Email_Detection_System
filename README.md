@@ -88,12 +88,12 @@ Visualizations like PR curves, accuracy histograms, and confusion matrices helpe
 * 
 ## How to Run
 
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
 
-Then, open the `security_proje_code.ipynb` notebook in [Google Colab](https://colab.research.google.com/) and run all cells in order.
+> git clone https://github.com/your-username/your-repo.git
+> cd your-repo
+
+
+Then, open the **security_proje_code.ipynb** notebook in [Google Colab](https://colab.research.google.com/) and run all cells in order.
 
 ---
 
